@@ -1,0 +1,16 @@
+* {margin: 0; padding: 0;}
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 6rem;
+  margin-top: -3rem;
+  border: 1px solid;
+  text-shadow: 8px 8px 8px #ffffff;
+}
